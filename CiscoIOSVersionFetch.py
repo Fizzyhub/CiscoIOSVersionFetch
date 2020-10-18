@@ -4,9 +4,9 @@
 ## Fetches Curent Running Version on Cisco Network
 ## Devices.
 ##################################################
-## Author: Fizgriz(Jefffrey Meigs)
+## Author: Fizgriz()
 ## Version: 1.0.0
-## Maintainer: Fizgriz(Jeffrey Meigs)
+## Maintainer: Fizgriz()
 ##################################################
 
 # Built-in/Generic Imports
